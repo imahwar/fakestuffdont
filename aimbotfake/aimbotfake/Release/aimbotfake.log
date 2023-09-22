@@ -1,0 +1,13 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\tacky\Desktop\aimbotfake\aimbotfake\vector.h(30): warning C4172: returning address of local variable or temporary
+C:\Users\tacky\Desktop\aimbotfake\aimbotfake\vector.h(25): warning C4172: returning address of local variable or temporary
+C:\Users\tacky\Desktop\aimbotfake\aimbotfake\vector.h(20): warning C4172: returning address of local variable or temporary
+C:\Users\tacky\Desktop\aimbotfake\aimbotfake\vector.h(35): warning C4172: returning address of local variable or temporary
+C:\Users\tacky\Desktop\aimbotfake\aimbotfake\vector.h(15): warning C4172: returning address of local variable or temporary
+C:\Users\tacky\Desktop\aimbotfake\aimbotfake\vector.h(11): warning C4723: potential divide by 0
+C:\Users\tacky\Desktop\aimbotfake\aimbotfake\vector.h(11): warning C4723: potential divide by 0
+  All 78 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  aimbotfake.vcxproj -> C:\Users\tacky\Desktop\aimbotfake\Release\aimbotfake.exe
